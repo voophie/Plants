@@ -1,8 +1,6 @@
 # Plants
-Pflanzenpass -TEST
+Pflanzenpass 
 
-Pflanze: Monstera
-Name: Moni
-Jahr: 2023
-Umgetopft: Sommer '24
-Boden: Blähton-Erde
+Seitenverlinkung mit "https://htmlpreview.github.io/?" + Seitenlink
+
+Die Seiten des Pflanzenpässe können über HTML erstellt werden.
